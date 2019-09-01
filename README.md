@@ -3,7 +3,7 @@
 Expandable Boiler Plate For Static Multiple Page Web Application
 ================================================================
 
-Includes: 
+### Includes: 
     - Multiple Html Files
     - Sass
     - Babel
@@ -14,7 +14,8 @@ Includes:
     - Preview Mode
 
 
-** Please Feel Free To Use This As A Starting Point For Your Next Project!
+### Please Feel Free To Use This As A Starting Point For Your Next Project!
+
 
     1. Clone for your own use & install dependencies
         npm --save-dev i
@@ -30,4 +31,4 @@ Includes:
 
 
 
-** Questions And Comments Can Be Directed To: danmontoya.pr@gmail.com
+### Questions And Comments Can Be Directed To: danmontoya.pr@gmail.com

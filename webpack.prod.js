@@ -38,7 +38,7 @@ module.exports = {
                 use: ["html-loader"]
             },
 
-            {   // +ES6 Babelaltor for older browsers
+            {   // +ES6 Transpiler for older browsers
                 test: /\.js$/,
                 exclude: /node_modules/,
                 loader: 'babel-loader',

@@ -20,7 +20,7 @@ module.exports = {
 
     module: {
         rules: [
-            {   // +ES6 Babelaltor for older browsers 
+            {   // +ES6 Transpiler for older browsers 
                 test: /\.js$/,
                 exclude: /node_modules/,
                 loader: 'babel-loader',
