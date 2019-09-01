@@ -4,14 +4,14 @@ Expandable Boiler Plate For Static Multiple Page Web Application
 ================================================================
 
 Includes: 
-    Multiple Html Files
-    Sass
-    Babel
-    Webpack 4
-    Optimization
-    Development Server
-    Build Output
-    Preview
+    - Multiple Html Files
+    - Sass
+    - Babel
+    - Webpack 4
+    - Optimization
+    - Development Server
+    - Production Build
+    - Preview Mode
 
 
 ** Please Feel Free To Use This As A Starting Point For Your Next Project!
